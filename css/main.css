@@ -1,3 +1,8 @@
+body {
+    margin: 0px;
+    background-color: black;
+}
+
 /* Chat Box */
 #chatBox {
     position: absolute;
@@ -8,7 +13,6 @@
     left: 10px;
     background-color: grey;
     transition: background-color 2s;
-    display: none;
 }
 
 #chatBox_topBar {
