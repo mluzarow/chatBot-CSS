@@ -2,7 +2,7 @@
 #nb_frame {
     margin: 0px;
     padding: 0px;
-    font-size: 2em;
+    font-size: 1.8em;
     background-color: black;
     overflow: hidden;
 }
@@ -37,7 +37,7 @@ ul {
 
 li {
     text-align: center;
-    padding: 14px 12px;
+    padding: 14px 7px;
     float: left;
     color: grey;
 } 
@@ -52,7 +52,7 @@ li a:hover {
     color: lightgrey;
 }
 
-/* Fancy bars */
+/* Spacers */
 #db_spacer_1 {
     height: 1px;
     background-color: black;
@@ -69,3 +69,4 @@ li a:hover {
     background-color: black;
     border-top: solid red;
 }
+
